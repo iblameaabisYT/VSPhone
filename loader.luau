@@ -75,7 +75,7 @@ end
 
 local Config = {
     Window = {
-        Title        = "Enchanted Hub Loader",
+        Title        = "VSPhone Scripts Loader",
         SubTitle     = "Loader by @iamvyxon | Scripts by @iblameaabis",
         TabWidth     = 160,
         Size         = UDim2.fromOffset(580, 460),
