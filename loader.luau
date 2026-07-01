@@ -86,7 +86,7 @@ local Config = {
     Scripts = {
         {
             Name = "Muscle Legends",
-            Url  = "https://raw.githubusercontent.com/iblameaabisYT/Enchanted/refs/heads/main/Muscle%20Legends"
+            Url  = "https://raw.githubusercontent.com/iblameaabisYT/VSPhone/refs/heads/main/Muscle%20Legends"
         }
     },
 }
