@@ -85,6 +85,10 @@ local Config = {
     },
     Scripts = {
         {
+            Name = "Blue Lock Rivals",
+            Url  = "https://raw.githubusercontent.com/iblameaabisYT/VSPhone/refs/heads/main/Blue%20Lock%20Rivals"
+        }
+        {
             Name = "Muscle Legends",
             Url  = "https://raw.githubusercontent.com/iblameaabisYT/VSPhone/refs/heads/main/Muscle%20Legends"
         }
