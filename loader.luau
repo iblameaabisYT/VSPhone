@@ -87,11 +87,15 @@ local Config = {
         {
             Name = "Blue Lock Rivals",
             Url  = "https://raw.githubusercontent.com/iblameaabisYT/VSPhone/refs/heads/main/Blue%20Lock%20Rivals"
-        }
+        },
         {
             Name = "Muscle Legends",
             Url  = "https://raw.githubusercontent.com/iblameaabisYT/VSPhone/refs/heads/main/Muscle%20Legends"
-        }
+        },
+        {
+            Name = "Steal An Egg",
+            Url  = "https://raw.githubusercontent.com/iblameaabisYT/VSPhone/refs/heads/main/Steal%20An%20Egg"
+        } 
     },
 }
 
